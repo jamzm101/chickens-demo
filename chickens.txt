@@ -1,1 +1,2 @@
 chicken is good.
+chicken is funny.
